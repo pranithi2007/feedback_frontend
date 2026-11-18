@@ -1,2 +1,1 @@
-====== FEEDBACK DEPLOYED LINK ======
-https://myprj-frontend-feed.vercel.app/
+vercel link = https://task-frontend-oh4jz5q12-pranithi2007.vercel.app/
